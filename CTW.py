@@ -8,7 +8,7 @@ username, password = str(), str()
 
 def show_menu():
     print('''
-            Welcome to this SCRIPT coded by OD :)
+            Welcome to this SCRIPT coded by DOD
 
     -D  : Log in with your default user         (1)
     -C  : Log in with your custom user          (2)
