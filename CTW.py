@@ -116,6 +116,8 @@ try:
             "username"] = primary_login_data[change_id]["username"], primary_login_data["1"]["username"]
         primary_login_data["1"]["password"], primary_login_data[change_id][
             "password"] = primary_login_data[change_id]["password"], primary_login_data["1"]["password"]
+        primary_login_data["1"]["info"], primary_login_data[change_id][
+            "info"] = primary_login_data[change_id]["info"], primary_login_data["1"]["info"]
         save_data(primary_login_data)
     elif args[0] == '5' or args[0] == '-E':
         show_login_datas(primary_login_data)
