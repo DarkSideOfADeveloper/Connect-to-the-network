@@ -28,19 +28,17 @@ $ python CTW.py --help
 With first run you should Enter your default-user :
 ```
 $ python CTW.py       
-    Enter Your Default-User UserName : 
-    40012345
-    Enter Your Default-User password : 
-    1234   
-    Enter Your Default-USer Info : 
-    test
-
+Enter Your Default-User UserName : 
+40012345
+Enter Your Default-User password : 
+1234   
+Enter Your Default-USer Info : 
+test
 ```
 After that you can log-in with your default-user :
 ```
 $ python CTW.py 1
-    You are logged in with ( 40012345 )
-
+You are logged in with ( 40012345 )
 ```
 
 ### Developed by OD :)
