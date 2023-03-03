@@ -11,7 +11,7 @@ We have this options here :
 ```
 $ python CTW.py --help      
 
-            Welcome to this SCRIPT coded by OD :)
+            Welcome to this SCRIPT coded by DOD
 
     -D  : Log in with your default user         (1)
     -C  : Log in with your custom user          (2)
@@ -41,4 +41,4 @@ $ python CTW.py 1
 You are logged in with ( 40012345 )
 ```
 
-### Developed by OD :)
+### Developed by DOD
